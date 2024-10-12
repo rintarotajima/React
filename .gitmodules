@@ -1,0 +1,6 @@
+[submodule "react-router"]
+	path = react-router
+	url = https://github.com/rintarotajima/react-router
+[submodule "react-rendering"]
+	path = react-rendering
+	url = https://github.com/rintarotajima/react-rendering
